@@ -7213,7 +7213,7 @@ html[data-template="basic"] .c-regular-paragraph {
 
 @media (min-width: 1000px) {
     .c-progress-carousel_title {
-        text-align: center;
+        text-align: left;
         height: 1.2em;
         overflow: hidden;
         visibility: hidden
