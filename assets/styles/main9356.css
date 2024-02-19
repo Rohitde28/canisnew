@@ -3955,7 +3955,7 @@ html.is-ready .c-burger_line {
 
 @media (min-width: 700px) {
     .c-hero.-align-right .c-hero_title {
-        text-align: right
+        text-align: center
     }
 }
 
@@ -6805,7 +6805,7 @@ html.js-focus-visible .c-sound-toggler:focus-visible::before {
 }
 
 html[data-template="basic"] .c-regular-paragraph {
-    border-top: 1px solid currentColor
+    border-top: initial;
 }
 
 @media (max-width: 699px) {
@@ -6816,7 +6816,7 @@ html[data-template="basic"] .c-regular-paragraph {
 
 @media (min-width: 700px) {
     html[data-template="basic"] .c-regular-paragraph {
-        margin-top: 10rem
+        margin-top: 1rem
     }
 }
 
